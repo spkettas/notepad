@@ -30,7 +30,7 @@ $ npm start
 
 ## Run
 
-![screenshot](/notepad/screenshot/screenshot.png)
+![screenshot](https://github.com/spkettas/notepad/blob/master/screenshot/screenshot.png)
 
 
 
